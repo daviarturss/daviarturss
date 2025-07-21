@@ -22,6 +22,10 @@ Sou viciado em Inteligencia Artificial e fico fascinando com o avanço dela.
 
 ### 📊 Stats
 
+### 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviarturss&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviarturss&theme=cobalt&custom_title=Tecnologias&langs_count=5)
 
 
