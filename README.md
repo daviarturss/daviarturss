@@ -1,9 +1,7 @@
 # 🐱‍👤Davi Artur
 **`Desenvolvedor Cloud `**
 
-Me chamo Davi, tenho 23 anos e sou natural do Reife.
-Conclui o ensino medio no ETE Porto Digital. Atualmente estou no 3º Periodo de Analise e desenvolvimento de sitemas na Uninassau Graças.
-Estou estudando cloud computing focado em azure.
+Sou um entusiasta de tecnologia cloud com foco em desenvolvimento de soluções escaláveis e eficientes. Atualmente cursando Análise e Desenvolvimento de Sistemas, busco constantemente expandir meus conhecimentos em arquiteturas cloud, DevOps e desenvolvimento de software.
 
 ## ✉ Contato
 <div style="display: inline_block">
