@@ -12,6 +12,23 @@ Trabalhei bastante com atendimento
  desenvolvimento web HTML, CSS,
  JavaScript
 
+
+  Tenho me dedicado ao desenvolvimento de
+ habilidades em programação por meio de
+ estudos constantes e projetos práticos.
+ Atualmente, estudo Python e já desenvolvi
+ pequenos projetos que me permitiram aplicar
+ conceitos fundamentais da linguagem, como
+ estruturas de dados, automação e lógica de
+ programação. Também estou aprofundando
+ meus conhecimentos em SQL, com foco na
+ manipulação de dados e construção de
+ consultas eficientes para análise e
+ organização de informações. Além disso,
+ realizei projetos web utilizando HTML, CSS,
+ JavaScript e Python, integrando front-end e
+ back-end em aplicações simples
+
  
 ## ✉ Contato
 <div style="display: inline_block">
