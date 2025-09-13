@@ -1,8 +1,18 @@
 # 🐱‍👤Davi Artur
-**`Desenvolvedor Cloud `**
+**`Desenvolvedor `**
 
-Sou um entusiasta de tecnologia cloud com foco em desenvolvimento de soluções escaláveis e eficientes. Atualmente cursando Análise e Desenvolvimento de Sistemas, busco constantemente expandir meus conhecimentos em arquiteturas cloud, DevOps e desenvolvimento de software.
+Trabalhei bastante com atendimento
+ ao público aprimorando minhas
+ habilidades sociais e contato com
+ cliente.
+ Recentemente fiz uma transição de
+ carreira para área da programação
+ e sigo me aperfeiçoando na área.
+ Atualmente estudando: Python, SQL,
+ desenvolvimento web HTML, CSS,
+ JavaScript
 
+ 
 ## ✉ Contato
 <div style="display: inline_block">
     <a href="https://www.linkedin.com/in/daviartur/" 
