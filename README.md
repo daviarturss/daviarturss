@@ -1,33 +1,14 @@
 # 🐱‍👤Davi Artur
 **`Desenvolvedor `**
 
-Trabalhei bastante com atendimento
- ao público aprimorando minhas
- habilidades sociais e contato com
- cliente.
- Recentemente fiz uma transição de
- carreira para área da programação
- e sigo me aperfeiçoando na área.
- Atualmente estudando: Python, SQL,
- desenvolvimento web HTML, CSS,
- JavaScript
 
+Estudante do 3º período de Análise e Desenvolvimento de Sistemas
+na Faculdade Estácio. 
 
-  Tenho me dedicado ao desenvolvimento de
- habilidades em programação por meio de
- estudos constantes e projetos práticos.
- Atualmente, estudo Python e já desenvolvi
- pequenos projetos que me permitiram aplicar
- conceitos fundamentais da linguagem, como
- estruturas de dados, automação e lógica de
- programação. Também estou aprofundando
- meus conhecimentos em SQL, com foco na
- manipulação de dados e construção de
- consultas eficientes para análise e
- organização de informações. Além disso,
- realizei projetos web utilizando HTML, CSS,
- JavaScript e Python, integrando front-end e
- back-end em aplicações simples
+No ecossistema de desenvolvimento, utilizo HTML, CSS e JavaScript para a construção de Landing Pages otimizadas, além de aplicar Python na automação de processos e no desenvolvimento de Dashboards inteligentes com suporte de IA. 
+
+Atualmente, busco expandir meu conhecimento me aprofundando em Cloud Computing e Análise de Dados, alinhando técnica com uma visão de negócios estratégica para geração valor. Sempre aberto a novos desafios e oportunidades de crescimento profissional!
+
 
  
 ## ✉ Contato
