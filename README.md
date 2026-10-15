@@ -2,12 +2,56 @@
 **`Desenvolvedor `**
 
 
-Estudante do 3º período de Análise e Desenvolvimento de Sistemas
-na Faculdade Estácio. 
+# DAVI ARTUR SILVA SOUSA
 
-No ecossistema de desenvolvimento, utilizo HTML, CSS e JavaScript para a construção de Landing Pages otimizadas, além de aplicar Python na automação de processos e no desenvolvimento de Dashboards inteligentes com suporte de IA. 
 
-Atualmente, busco expandir meu conhecimento me aprofundando em Cloud Computing e Análise de Dados, alinhando técnica com uma visão de negócios estratégica para geração valor. Sempre aberto a novos desafios e oportunidades de crescimento profissional!
+Recife – PE | (81) 99219-2077  
+
+## RESUMO PROFISSIONAL
+
+Estudante de Análise e Desenvolvimento de Sistemas na Estácio, com conhecimentos em HTML, CSS, JavaScript e Python, e em processo de aprimoramento em React, Node.js e bancos de dados. Tenho interesse no desenvolvimento de aplicações web, na resolução de problemas e na criação de soluções práticas por meio da programação.
+
+Utilizo ferramentas de inteligência artificial (IA) como apoio aos estudos, à pesquisa, à compreensão de conceitos e à otimização de tarefas durante o desenvolvimento. Busco combinar esses recursos com o aprendizado dos fundamentos técnicos, valorizando a qualidade do código, a organização, a documentação e as boas práticas de desenvolvimento.
+
+Procuro uma oportunidade de estágio ou entrada na área de desenvolvimento para aplicar meus conhecimentos, adquirir experiência prática e evoluir continuamente como profissional de tecnologia.
+
+## COMPETÊNCIAS TÉCNICAS
+
+- **Linguagens e tecnologias web:** HTML, CSS e JavaScript.
+- **Programação:** Python.
+- **Desenvolvimento web:** estudos em React e Node.js.
+- **Bancos de dados:** aprendizado de conceitos de bancos de dados relacionais e SQL.
+- **Versionamento e organização:** Git e GitHub.
+- **Inteligência artificial e produtividade:** utilização de ferramentas de IA para apoiar pesquisas, aprendizado, compreensão de código e resolução de problemas.
+- **Automação:** interesse em automatizar tarefas e otimizar processos de desenvolvimento.
+- **Documentação:** valorização de READMEs claros, organização de repositórios e instruções de execução.
+
+## EXPERIÊNCIA PROFISSIONAL
+
+**Consultor de Vendas – Administrativo**  
+Outubro de 2025 – Maio de 2026
+
+- Atualização de planilhas e sistemas internos, contribuindo para a organização das informações.
+- Organização e digitalização de documentos e arquivos.
+- Apoio a rotinas administrativas e controles operacionais.
+- Atendimento ao público e comunicação entre setores.
+- Operação e acompanhamento de equipamentos de sistema tintométrico.
+
+## FORMAÇÃO ACADÊMICA
+
+**Análise e Desenvolvimento de Sistemas — Estácio**  
+Cursando — 2º período.
+
+**Ensino Médio Completo — ETE Porto Digital**  
+Conclusão: 2018.
+
+## COMPETÊNCIAS COMPORTAMENTAIS
+
+Pensamento analítico • Organização • Resolução de problemas • Proatividade • Aprendizado contínuo • Atenção aos detalhes • Trabalho em equipe • Adaptabilidade.
+
+## IDIOMAS
+
+**Inglês:** Intermediário.
 
 
  
