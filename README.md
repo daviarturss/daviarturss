@@ -19,11 +19,10 @@ Procuro uma oportunidade de estágio ou entrada na área de desenvolvimento para
 
 - **Linguagens e tecnologias web:** HTML, CSS e JavaScript.
 - **Programação:** Python.
-- **Desenvolvimento web:** estudos em React e Node.js.
-- **Bancos de dados:** aprendizado de conceitos de bancos de dados relacionais e SQL.
+- **Desenvolvimento web:** React e Node.js.
+- **Bancos de dados:** conceitos de bancos de dados relacionais e SQL.
 - **Versionamento e organização:** Git e GitHub.
 - **Inteligência artificial e produtividade:** utilização de ferramentas de IA para apoiar pesquisas, aprendizado, compreensão de código e resolução de problemas.
-- **Automação:** interesse em automatizar tarefas e otimizar processos de desenvolvimento.
 - **Documentação:** valorização de READMEs claros, organização de repositórios e instruções de execução.
 
 ## EXPERIÊNCIA PROFISSIONAL
